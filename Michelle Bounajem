@@ -1,0 +1,229 @@
+TYPE html>
+<html>
+
+  <!DOCTYPE html>
+<html>
+<head>
+  <title>Michelle Bounajem's Website</title>
+  <style>
+    body {
+      background-color: #5c94fc;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .header {
+      background-color: #000;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .header h1 {
+      font-size: 40px;
+      margin: 0;
+    }
+
+    .content {
+      text-align: center;
+      margin-top: 50px;
+    }
+
+    .mario-image {
+      display: block;
+      margin: 0 auto;
+      width: 300px;
+    }
+
+    .mario-text {
+      font-size: 24px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <h1>🌸🌷Welcome to Michelle Bounajem's Portfolio🌸🌷</h1>
+  </header>
+
+  <div class="content">
+   
+    
+  </div>
+
+  <!-- Add more content or sections related to Super Mario Bros. here -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    @keyframes animated-text {
+      0% { opacity: 0; }
+      50% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+
+    .animated-text {
+      animation: animated-text 1s infinite;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="animated-text">Hello, please hire me!</h1>
+</body>
+</html>
+
+  
+  <script>
+  
+
+
+
+
+<p></p>
+
+
+
+
+
+
+  
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+ 
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Flower Website</title>
+  <style>
+    .flower {
+      font-size: 50px;
+      line-height: 40px;
+      text-align: center;
+      margin-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  <div class="flower">
+    <pre>
+<br>🌸🌷🌷🌹🌹🌷🌷🌸<br>
+ </pre>
+
+
+
+
+
+
+
+    
+    <img src="me.PNG" alt="me.png">
+  </div>
+</body>
+</html>
+
+<body>
+  
+ <h1>Michelle Bounajem</h1>
+  <p/>
+    
+  <script src="script.js"></script>
+
+  <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+</body>
+
+
+  
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>UX Designer Portfolio</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section id="about">
+    <h1>About Me</h1>
+    <p>I am a passionate and experienced UX designer and researcher with a strong background in instructional design and educational technology. With four years of industry experience, I have honed my skills in creating user-centered designs that seamlessly blend form and function. My expertise extends beyond design, as I am proficient in coding with Python, CSS, HTML, and JavaScript.
+</p>
+
+In my career, I have focused on crafting intuitive user interfaces, improving user experiences, and optimizing conversions. I am well-versed in conducting user research, utilizing a variety of methods such as usability tests, interviews, and surveys. I possess a keen ability to analyze qualitative and quantitative data to extract valuable insights and inform design decisions.
+</p>
+
+With a Master's degree in Instructional Design and educational technology, I have a deep understanding of how to design experiences that facilitate effective learning and engagement. I have applied this knowledge to projects involving e-learning platforms, educational games, and interactive multimedia content, ensuring that the user experience is both educational and enjoyable.
+</p>
+
+My technical skills in Python, CSS, HTML, and JavaScript enable me to bridge the gap between design and development. This proficiency allows me to create functional prototypes and collaborate seamlessly with developers, ensuring the successful implementation of my designs.
+</p>
+
+I thrive in dynamic and collaborative environments, where I can contribute my creative thinking, problem-solving abilities, and attention to detail. I am constantly seeking opportunities to stay at the forefront of the UX industry, attending conferences, workshops, and keeping up-to-date with the latest trends and advancements.
+</p>
+
+As a UX designer and researcher, I am driven by the desire to create meaningful and impactful experiences for users. With my diverse skill set and a deep understanding of user needs, I am confident in my ability to deliver innovative solutions that balance usability, aesthetics, and technical feasibility.
+</p>
+    
+In summary, I bring four years of experience in UX design, coupled with a Master's degree in Instructional Design educational technology. With my proficiency in Python, CSS, HTML, and JavaScript, I bridge the gap between design and development. My passion for creating user-centered experiences, combined with my technical expertise and research skills, allows me to drive meaningful impact in the field of UX design.
+
+
+
+
+
+</p>
+  </section>
+  <section id="portfolio">
+    <h1>Portfolio</h1>
+    <!-- Insert your portfolio projects here -->
+    <div class="project">
+      <img src="3.PNG" alt="3.PNG">
+      <h3>
+Substance Prevention Framework</h3>
+      <p>
+Substance Prevention Framework
+SPF Background
+The Substance Prevention Framework (SPF) is a comprehensive, evidence-based model that provides a structured approach to preventing substance use among youth. The SPF is designed to help communities develop and implement effective prevention strategies by providing a framework for understanding the risk and protective factors associated with substance use, and for selecting and implementing evidence-based prevention strategies that address those factors.</p>
+
+      <img src="wf.PNG
+        " alt="wf" </h3>
+      <p>
+      Link: https://lucid.app/lucidchart/cb19a319-6828-4053-910d-dcaa8e62d2e4/view?page=0_0#
+    
+      </p>
+    </div>
+    <div class="project">
+      <img src="path/to/project-image.jpg" alt="Project 2">
+      <h3>Project Name 2</h3>
+      <p>Description of Project 2</p>
+    </div>
+    <!-- More projects... -->
+  </section>
+  <section id="contact">
+    <h1>Contact Me</h1>
+    <p>michellebounajem@gmail.com</p>
+  </section>
+  <script src="script.js"></script>
+</body>
+</html>
+
